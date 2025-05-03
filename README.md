@@ -122,6 +122,3 @@ This project is part of a learning series that includes:
 
 - GitHub: [@tamerakdeniz](https://github.com/tamerakdeniz)
 
-## 📄 License
-
-This project is available under the MIT license. See the LICENSE file for more info.
